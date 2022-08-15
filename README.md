@@ -28,3 +28,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghanshamsoomarani&show_icons=true&locale=en" alt="ghanshamsoomarani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshamsoomarani&" alt="ghanshamsoomarani" /></p>
+
+![gitartwork](gitartwork.svg)
+name: gitartwork from a contribution graph
+on: 
+  push:
+  schedule:
+    - cron: '* */24 * * *'
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+           # Use this username's contribution graph  
+           user_name: jasineri
+           # Text on contribution graph 
+           text: Soomarani
+      - uses: jasineri/simple-push-action@v1
