@@ -1,4 +1,4 @@
-[![@ghansham081's Holopin board](https://holopin.me/ghansham081)](https://holopin.io/@ghansham081)
+[![@ghansham081's Holopin board]([https://holopin.me/ghansham081](https://www.holopin.io/@ghansham081#))](https://holopin.io/@ghansham081)
 
 <h1 align="center">Hi 👋, I'm Ghansham Soomarani</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghanshamsoomarani" alt="ghanshamsoomarani" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ghansha16569726" target="blank"><img src="https://img.shields.io/twitter/follow/ghansha16569726?logo=twitter&style=for-the-badge" alt="ghansha16569726" /></a> </p>
+<p align="left"> <a href="https://x.com/Ghansham081?t=lLqHi0__96bjnbFMqB7DgA&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/Ghansham081?logo=twitter&style=for-the-badge" alt="Ghansham081" /></a> </p>
 
 - 🌱 I’m currently learning **frontend Development**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Ghansham081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghansha16569726" height="30" width="40" /></a>
+<a href="https://twitter.com/Ghansham081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ghansham081" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ghansham-soomarani-b2704a210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghansham-soomarani-b2704a210" height="30" width="40" /></a>
 <a href="https://fb.com/ghansham.soomarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghansham.soomarani" height="30" width="40" /></a>
 <a href="https://instagram.com/ghanshamsoomarani3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghanshamsoomarani3/" height="30" width="40" /></a>
