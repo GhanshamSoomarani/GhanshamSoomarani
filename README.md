@@ -1,5 +1,4 @@
-[![@ghansham081's Holopin board]([https://holopin.me/ghansham081](https://www.holopin.io/@ghansham081#))](https://holopin.io/@ghansham081)
-
+[![An image of @ghansham081's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghansham081)](https://holopin.io/@ghansham081)
 <h1 align="center">Hi 👋, I'm Ghansham Soomarani</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghanshamsoomarani&label=Profile%20views&color=0e75b6&style=flat" alt="ghanshamsoomarani" /> </p>
